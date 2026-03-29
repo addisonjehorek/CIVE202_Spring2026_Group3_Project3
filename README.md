@@ -9,8 +9,10 @@ This includes files for Project #3
 The repostiory incudes the following files: 
 - [NHTS Raw](NHTS(1).csv)
 - [NGSIM Raw](NGSIM(2).csv)
-- [Gaant Chart]()
-- [Time Sheet
+- [Scope of Work](CIVE202_Spring2026_AvaLavene_Project3_sow(1).docx)
+- [Time Sheet](Engineering_Timesheet_lavene.docx)
+- [Gaant Chart](CIVE202_Spring2026_Group151-07_Project3_GanttChart_lavene(1).xlsx)
+- 
 - [Notebook (not uploaded yet)](Project1.ipynb)
 - [Scope of Work (not uploaded yet)](CIVE202_Spring2026_AddisonJehorek_Project1_ScopeOfWork.pdf)
 - [Written Summary (not uploaded yet)](CIVE202_CIVE202_Spring2026_AddisonJehorek_Project1_WrittenSummary.pdf)
