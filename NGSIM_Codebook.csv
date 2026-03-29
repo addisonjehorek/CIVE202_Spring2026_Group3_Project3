@@ -1,0 +1,8 @@
+Time,time interval in seconds
+leader_position(m),position of the leading vehicle at every time step
+follower_position(m),position of the follower vehicle at every time step
+leader_speed(m/s),speed of the leading vehicle at every time step
+follower_speed(m/s),speed of the following vehicle at every time step
+leader_acc(m/s^2),acceleration of the leading veicle at every time step
+follower_acc(m/s^2),acceleration of the following g veicle at every time step
+trajectory_number,an id representing a  leader-follower pair dataset
