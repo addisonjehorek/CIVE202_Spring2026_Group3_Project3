@@ -14,5 +14,5 @@ The repostiory incudes the following files:
 - [Time Sheet](Engineering_Timesheet_lavene.docx)
 - [Gaant Chart](CIVE202_Spring2026_Group151-07_Project3_GanttChart_lavene(1).xlsx)
   
-- [Notebook(CIVE202_Spring2026_Group3_Project3_Notebook.ipynb)
+- [Notebook](CIVE202_Spring2026_Group3_Project3_Notebook.ipynb)
 - [Written Summary (not uploaded yet)](CIVE202_CIVE202_Spring2026_AddisonJehorek_Project1_WrittenSummary.pdf)
