@@ -2,7 +2,7 @@
 # Project-3
 This includes files for Project #3 
 
-# This repository includes the files for project no. 1
+# This repository includes the files for project no. 3
 ## [Client Prompt](CIVE202_PROJECT3_PROMPT.pdf)
 
 ## Repo Structure 
