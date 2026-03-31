@@ -13,9 +13,8 @@ This includes files for Project #3
 - [Time Sheet](CIVE202_Spring2026_Group3_Project3_EngineeringTimesheet.docx)
 - [Gantt Chart](CIVE202_Spring2026_Group3_Project3_GanttChart.xlsx)
   
-- [Written Summary 1 (not uploaded yet)](file.pdf)
-- [Written Summary 2 (not uploaded yet)](file.pdf)
-- [Annotated Code Document (not uploaded yet)](file.pdf)
+- [Written Report](CIVE202_Spring2026_Group3_Project3_Report.docx)
+- [Annotated Code Document](CIVE202_spring2026_group3_project3_annotatedcode.xlsx)
 
 # Raw Data 
 - [NHTS Raw](NHTS(1).csv)
