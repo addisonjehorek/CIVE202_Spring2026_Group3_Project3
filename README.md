@@ -11,7 +11,7 @@ This includes files for Project #3
 # Project Files
 - [Scope of Work](CIVE202_Spring2026_Group3_Project3_SOW.docx)
 - [Time Sheet](CIVE202_Spring2026_Group3_Project3_EngineeringTimesheet.docx)
-- [Gaant Chart](CIVE202_Spring2026_Group3_Project3_GanttChart.xlsx)
+- [Gantt Chart](CIVE202_Spring2026_Group3_Project3_GanttChart.xlsx)
   
 - [Written Summary 1 (not uploaded yet)](file.pdf)
 - [Written Summary 2 (not uploaded yet)](file.pdf)
