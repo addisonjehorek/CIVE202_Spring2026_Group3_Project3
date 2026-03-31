@@ -9,9 +9,9 @@ This includes files for Project #3
 ## [Notebook](CIVE202_Spring2026_Group3_Project3_Notebook.ipynb)
 
 # Project Files
-- [Scope of Work](CIVE202_Spring2026_AvaLavene_Project3_sow(1).docx)
-- [Time Sheet](Engineering_Timesheet_lavene.docx)
-- [Gaant Chart](CIVE202_Spring2026_Group151-07_Project3_GanttChart_lavene(1).xlsx)
+- [Scope of Work](CIVE202_Spring2026_Group3_Project3_SOW.docx)
+- [Time Sheet](CIVE202_Spring2026_Group3_Project3_EngineeringTimesheet.docx)
+- [Gaant Chart](CIVE202_Spring2026_Group3_Project3_GanttChart.xlsx)
   
 - [Written Summary 1 (not uploaded yet)](file.pdf)
 - [Written Summary 2 (not uploaded yet)](file.pdf)
